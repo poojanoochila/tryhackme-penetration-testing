@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository documents my learning experience from the **Red Team Fundamentals** room on TryHackMe. The room introduces the principles of red teaming, explain how red team engagements differ from traditional penetration testing and vulnerability assessments.
+This repository documents my learning experience from the **Red Team Fundamentals** room on TryHackMe. The room introduces the principles of red teaming, explaining how red team engagements differ from traditional penetration testing and vulnerability assessments.
 
 The room also covers the planning, execution, and documentation of red team operations, highlighting how organizations simulate real-world adversaries to evaluate their security posture, detection capabilities, and incident response processes.
 
