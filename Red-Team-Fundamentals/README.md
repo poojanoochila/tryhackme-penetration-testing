@@ -1,6 +1,6 @@
 # Red Team Fundamentals
 
-> **Platform:** TryHackMe 
+> **Platform:** TryHackMe
 > **Difficulty:** Easy  
 > **Category:** Red Team / Adversary Emulation / Cybersecurity Fundamentals
 
