@@ -1,4 +1,4 @@
-# Red Team Fundamentals La
+# Red Team Fundamentals Lab
 
 > **Platform:** TryHackMe
 > **Difficulty:** Easy  
