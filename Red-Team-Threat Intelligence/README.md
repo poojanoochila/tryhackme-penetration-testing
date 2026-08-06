@@ -6,7 +6,7 @@
 
 ## Overview
 
-This repository documents my learning experience from the **Red Team Threat Intelligence** room on TryHackMe. The room explores how Cyber Threat Intelligence (CTI) supports Red Team operations by enabling adversary emulation based on real-world attacker behaviors.
+This repository documents my learning experience from the Red Team Threat Intelligence room on TryHackMe. The room explores how Cyber Threat Intelligence (CTI) supports Red Team operations by enabling adversary emulation based on real-world attacker behaviors.
 
 Rather than simply performing offensive actions, Red Teams use threat intelligence to study known threat actors, understand their Tactics, Techniques, and Procedures (TTPs), and replicate their behavior during controlled security assessments. The room also introduces threat intelligence frameworks such as MITRE ATT&CK and TIBER-EU, along with techniques for planning intelligence-driven campaigns.
 
