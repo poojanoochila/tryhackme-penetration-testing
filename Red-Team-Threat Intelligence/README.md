@@ -1,4 +1,3 @@
-
 # Red Team Threat Intelligence
 
 > **Platform:** TryHackMe  
