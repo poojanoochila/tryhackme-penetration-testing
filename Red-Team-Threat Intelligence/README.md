@@ -1,4 +1,4 @@
-# Red Team Threat Intelligence La
+# Red Team Threat Intelligence Lab
 
 > **Platform:** TryHackMe  
 > **Difficulty:** Easy  
